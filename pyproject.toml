@@ -1,0 +1,18 @@
+[project]
+name = "tara-2026-blr"
+version = "0.1.0"
+requires-python = ">=3.11,<3.12"
+dependencies = [
+    "einops",
+    "ipykernel",
+    "jaxtyping",
+    "numpy",
+    "pandas",
+    "pillow",
+    "plotly",
+    "rich",
+    "torch",
+    "torchinfo",
+    "torchvision",
+    "tqdm",
+]
